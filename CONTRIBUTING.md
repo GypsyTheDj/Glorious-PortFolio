@@ -1,13 +1,13 @@
-Contributing
+ ***Contributing***
 
 Thank you for your interest in [https://github.com/GypsyTheDj/Glorious-PortFolio]!
 
 The Glorious-PortFolio project operates under the Glorious-PortFolio code of conduct. By participating in this project, you agree to abide by its terms. Please report inappropriate behaviour to norman.strathmore@gmail.com 
 Communication
 
-I invite community discussion on the following channels. If you are not sure you want to create an issue or pull request yet, feel free to discuss this project with me via email provided above.
+I invite community discussion on the Project. If you are not sure you want to create an issue or pull request yet, feel free to discuss this project with me via email provided above.
 
-Contributions
+ **Contributions**
 
 To request a feature, report a bug, or suggest improvements to documentation for this repository:
 
@@ -28,4 +28,4 @@ In this project, the following policies apply:
     A person may merge code contributed by another employee of the same organization.
 
 
-                     Happy Coding!!
+                     ***Happy Coding!!***
