@@ -1,4 +1,4 @@
-            ***#CONTRIBUTING***
+***CONTRIBUTING***
 
 Thank you for your interest in [https://github.com/GypsyTheDj/Glorious-PortFolio]!
 
