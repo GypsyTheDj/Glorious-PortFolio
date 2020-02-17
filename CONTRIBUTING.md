@@ -1,4 +1,4 @@
- ***Contributing***
+ #***CONTRIBUTING***
 
 Thank you for your interest in [https://github.com/GypsyTheDj/Glorious-PortFolio]!
 
@@ -28,4 +28,4 @@ In this project, the following policies apply:
     A person may merge code contributed by another employee of the same organization.
 
 
-                     ***Happy Coding!!***
+                     Happy Coding!!
