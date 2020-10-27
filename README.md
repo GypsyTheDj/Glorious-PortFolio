@@ -1,4 +1,4 @@
-<h align="center"> ***Glorious Vuyanzi Musaviri*** </h>
+<h2 align="center"> ***Glorious Vuyanzi Musaviri*** </h2>
 
 <h1 align="center"> Hi there 👋,</h1>
 
