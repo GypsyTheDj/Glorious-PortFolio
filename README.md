@@ -11,3 +11,7 @@
 <h2 align="center"> 👨‍💻 https://glorious-port-folio.vercel.app 
 </h2>
 
+Contributions are welcome! <3
+
+Made with :heart: by https://github.com/GypsyTheDj .
+
