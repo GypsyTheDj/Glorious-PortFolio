@@ -13,6 +13,5 @@
 
 Contributions are welcome! 😉
 
-Made with :heart: by [website].
+Made with :heart: by [Norman Nuthu](https://github.com/GypsyTheDj)
 
-[website] [https://github.com/GypsyTheDj]
