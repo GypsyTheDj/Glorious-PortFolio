@@ -21,8 +21,7 @@ However, if you are using this project and happy with it or just want to encoura
 
 - Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
 - Starring and sharing the project :rocket:
-- [Buy me Coffee](https://www.paypal.com/donate?hosted_button_id=ZS4HCL4PKURQY)
- - You can make one-time donations via PayPal. I'll probably buy a coffee :coffee:
+- [Buy me Coffee](https://www.paypal.com/donate?hosted_button_id=ZS4HCL4PKURQY) - You can make one-time donations via PayPal. I'll probably buy a coffee :coffee:
 
 Thanks! :heart:
 
