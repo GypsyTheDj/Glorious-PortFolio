@@ -1,6 +1,6 @@
 ***Glorious Vuyanzi Musaviri***
 
-# [Her portfolio design]
+<h1 align="center"> Hi there 👋, [Her portfolio design] </h1>
 
 <div align="center">
   
