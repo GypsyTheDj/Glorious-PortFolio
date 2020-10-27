@@ -21,16 +21,11 @@ However, if you are using this project and happy with it or just want to encoura
 
 - Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
 - Starring and sharing the project :rocket:
-- [Buy me Coffee](<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="ZS4HCL4PKURQY" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_KE/i/scr/pixel.gif" width="1" height="1" />
-</form>
-) - You can make one-time donations via PayPal. I'll probably buy a coffee :coffee:
+- [Buy me Coffee 😉](https://www.paypal.com/donate?hosted_button_id=ZS4HCL4PKURQY) - You can make one-time donations via PayPal. I'll probably buy a coffee :coffee:
 
 Thanks! :heart:
 
-Contributions are welcome! 😉
+Contributions are welcome! 🎉
 
 Made with :heart: by [Norman Nuthu](https://github.com/GypsyTheDj)
 
