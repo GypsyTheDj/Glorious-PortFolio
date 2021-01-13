@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="https://glorious-port-folio.vercel.app/images/glorious.jpeg">
+  <img src="https://github.com/GypsyTheDj/Glorious-PortFolio/blob/master/images/portfolio.png">
   
 </div>
 
