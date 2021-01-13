@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://github.com/GypsyTheDj/Glorious-PortFolio/blob/master/images/portfolio.png">
+  <img src="https://github.com/GypsyTheDj/Glorious-PortFolio/blob/master/images/portfolio.GIF">
   
 </div>
 
